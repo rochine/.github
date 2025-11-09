@@ -24,3 +24,10 @@ Each action—digital or physical—is validated through cryptographic proofs, t
 | 💻 **Rochine Console** | Web DApp to deploy, track, and manage automation tasks. | ✅ Live (Beta) |
 | 🤖 **Rochine Link** | Gateway that connects AI agents, robots, and IoT devices to the network. | 🔄 In Development |
 | 📚 **Rochine Hub** | Docs, research papers, and build journal. | 📘 Online |
+
+
+### 🔗 Rochine Ecosystem
+- [Rochine Lab](https://github.com/rochine/rochine-lab)
+- [Rochine Console](https://github.com/rochine/rochine-console)
+- [Rochine RobotLink Ref](https://github.com/rochine/rochine-robotlink-ref)
+- [Rochine Hub](https://github.com/rochine/rochine-hub)
